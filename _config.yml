@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computer Science Enthusiast 
+title: Computer Science Enthusiast
 email: nsabimanaii@hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
-I am a technology Enthusiast who belives in the power of technology
-to positively change the lives of people. My aspiration in life is to learn, grow, and
-use technology as a tool to impact the lives of people as a global citizen.
+  I am a technology Enthusiast who belives in the power of technology
+  to positively change the lives of people. My aspiration in life is to learn, grow, and
+  use technology as a tool to impact the lives of people as a global citizen.
 baseurl: "/csci340blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @nsabimanainnoc9
-github_username:  Nsabimana1
+twitter_username: nsabimanainnoc9
+github_username: Nsabimana1
 
 # Build settings
 markdown: kramdown
