@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disco Trays Web Site"
+title:  "Disco Tray STudios Web Site"
 date:   2020-08-26
 author: Innocent Nsabimana
 ---
