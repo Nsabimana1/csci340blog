@@ -8,9 +8,9 @@ author: Innocent Nsabimana
 
 **Writting a basic web application with DotNetMVC**
 
-Starting with week 4, Disco trays team took a direction of learning tools that we will using to build a webapplication for Hendrix Assessment. Thus, I was appointed to investigate a dotnet framework and build a small demo that has simple use case so that we can see how dotnet will be effective for the tastk. 
+During week 5, I recreated a dotnet demo project using RazorPages Pattern instead of MVC pattern. The project had one user class, and I implemented operations of adding a new user and displaying a list of all users. 
 
-I created an empty project, and customised it to had case of adding and displaying users on webpate. This project had a database with one table, and it was suffient to caputure the overal important component of the use case. 
+In addition, it became import to figure out if we could use an existing database and integrate it in a dotnet core project. Thus, I updated the DotnNetRazorDemo project to load data from an external sqlite database. Doing this work helped me to refresh my skills in dotnet framework. In addition, it helped me to learn how to integrate an already existing database into an empty dotnet core project. 
 
 
 
