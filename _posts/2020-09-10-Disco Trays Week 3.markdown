@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disco Tray Studios Web Site Week 3"
+title:  "Disco Tray Studios Week 3"
 date:   2020-09-10
 author: Innocent Nsabimana
 ---
