@@ -6,7 +6,7 @@ author: Innocent Nsabimana
 ---
 
 
-**Reflecting on My experience working on My work With DiscoTray Studios**
+**Reflecting on My experience on My work With DiscoTray Studios**
 
 Before joining Disco Tray Studios, I had just finished a software engineering internship with Acxiom. Given my passion for technology, after spending time writing code that maintains an already existing massive project, I was looking forward to improving my software development skills by taking a significant step in starting a new project from scratch and driving it to completion. Working for Disco tray studio did not only help me to build more confidence in my ability to use technology to impact the community, but it also helped me to identify specifics of the part of a software technology stack that I enjoy working on most. 
 
